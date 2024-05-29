@@ -1,6 +1,7 @@
 {
   "name": "youtube-clone-2023",
   "version": "1.0.0",
+  "type": "module",
   "description": "The best way to watch videos.",
   "repository": {
     "type": "git",
@@ -24,6 +25,7 @@
     "mongoose": "^8.0.3",
     "moongose": "^1.0.0",
     "morgan": "^1.10.0",
+    "node-fetch": "^3.3.2",
     "pug": "^3.0.2"
   },
   "devDependencies": {
